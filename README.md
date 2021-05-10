@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 - 📫 via [linkedin]
 
 ### Languages and tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" />
-<img aling="left" alt="PYTHON" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="vs-code.png" />
+<img align="left" alt="SQL" width="26px" src="sql.webp.png" />
+<img aling="left" alt="PYTHON" width="26px" src="python.webp" />
+<img aling="left" alt="C++" width="26px" src="c++.jpg" />
 
 [linkedin]: https://www.linkedin.com/in/pawe%C5%82-perenc-51b39315a/
 [perqu]: https://github.com/perqu
