@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Languages and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="vs-code.png" />
-<img align="left" alt="SQL" width="26px" src="sql.webp.png" />
+<img align="left" alt="SQL" width="26px" src="sql.webp" />
 <img aling="left" alt="PYTHON" width="26px" src="python.webp" />
 <img aling="left" alt="C++" width="26px" src="c++.jpg" />
 
