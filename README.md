@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📚 I graduated from the Poznań University of Technology with the title of an engineer(Bachelor of Science) in the field of automation and robotics
 - 🔭 I’m currently working on machine learning project written in Python
 - 🌱 I’m currently learning Python (tensorflow, sklearn)
-- 😄 Hobbys: playing vr games, asg
+- 😄 Hobbys: vr games, asg
 
 ### Connect with me:
 - 📫 via mail: pawelkperenc@protonmail.com
