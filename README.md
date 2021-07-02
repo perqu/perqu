@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, welcome to my Github page aka [perqu] 👋
+### Welcome to my Github page aka [perqu] 👋
 
 ## A little bit about me:
 - 📚 I graduated from the Poznań University of Technology with the title of an engineer(Bachelor of Science) in the field of automation and robotics
