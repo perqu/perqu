@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## A little bit about me:
 - 📚 I graduated from the Poznań University of Technology with the title of an engineer(Bachelor of Engineering) in the field of automation and robotics
-- Junior control system engineer at SII
+- ⚡ Junior control system engineer at SII
 - 🌱 I’m currently learning Python (advanced level)
 - 😄 Hobbys: vr games, asg
 
