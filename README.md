@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 ## A little bit about me:
 - 📚 I graduated from the Poznań University of Technology with the title of an engineer(Bachelor of Engineering) in the field of automation and robotics
-- ⚡ Control system engineer at SII
-- 🌱 I’m currently learning Python (Junior+), Flask, HTML, CSS
-- 😄 Hobbys: vr games, asg
+- ⚡ Python Developer at Var-MC
+- 😄 Hobbys: vr games, climbing
 
 ### Connect with me:
 - 📫 via mail: pawelkperenc@protonmail.com
