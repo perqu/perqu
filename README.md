@@ -14,21 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Welcome to my Github page aka [perqu] 👋
 
 ## A little bit about me:
+
 - 📚 I graduated from the Poznań University of Technology with the title of an engineer(Bachelor of Engineering) in the field of automation and robotics
-- ⚡ Python Developer at Var-MC
+- ⚡ Python Backend Developer at More Code
 - 😄 Hobbys: vr games, climbing
 
 ### Connect with me:
+
 - 📫 via mail: pawelkperenc@protonmail.com
 - 📫 via [linkedin]
 
 ### Languages and tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="vs-code.png" />
-<img align="left" alt="SQL" width="26px" src="sql.webp" />
-<img aling="left" alt="PYTHON" width="26px" src="python.webp" />
+
+<img aling="left" alt="Python" width="26px" src="python.png" />
+<img align="left" alt="FastAPI" width="26px" src="fastapi.png" />
+<img align="left" alt="Flask" width="26px" src="flask.png" />
+<img align="left" alt="SQL" width="26px" src="sql.png" />
 <img aling="left" alt="C++" width="26px" src="c++.jpg" />
 
 [linkedin]: https://www.linkedin.com/in/pawe%C5%82-perenc-51b39315a/
