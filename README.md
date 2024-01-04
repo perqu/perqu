@@ -30,21 +30,13 @@ Here are some ideas to get you started:
 
 ### Languages and tools:
 
-<div style="display: inline-block;">
-  <img alt="Python" height="26px" src="python.png" />
-</div>
-<div style="display: inline-block;">
-  <img alt="FastAPI" height="26px" src="fastapi.png" />
-</div>
-<div style="display: inline-block;">
-  <img alt="Flask" height="26px" src="flask.png" />
-</div>
-<div style="display: inline-block;">
-  <img alt="SQL" height="26px" src="sql.png" />
-</div>
-<div style="display: inline-block;">
-  <img alt="C++" height="26px" src="c++.png" />
-</div>
+<p float="left">
+  <img alt="Python" src="./python.png" height="26px" />
+  <img alt="FastAPI" src="./fastapi.png" height="26px" />
+  <img alt="Flask" src="./flask.png" height="26px" />
+  <img alt="SQL" src="./sql.png" height="26px" />
+  <img alt="C++" src="./c++.png" height="26px" />
+</p>
 
 [linkedin]: https://www.linkedin.com/in/pawe%C5%82-perenc-51b39315a/
 [perqu]: https://github.com/perqu
