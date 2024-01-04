@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img align="left" alt="FastAPI" width="26px" src="fastapi.png" />
 <img align="left" alt="Flask" width="26px" src="flask.png" />
 <img align="left" alt="SQL" width="26px" src="sql.png" />
-<img aling="left" alt="C++" width="26px" src="c++.jpg" />
+<img aling="left" alt="C++" width="26px" src="c++.png" />
 
 [linkedin]: https://www.linkedin.com/in/pawe%C5%82-perenc-51b39315a/
 [perqu]: https://github.com/perqu
